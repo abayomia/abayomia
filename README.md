@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abayomia
-- 👀 I’m interested in software and data
-- 🌱 I’m currently learning data analytics and software engineering
+- 👀 I’m interested in data
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects with other student learners
-- 📫 You can reach me on Twitter @yomilevi
+- 📫 You can reach me on Twitter @yomzur
 
 <!---
 abayomia/abayomia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
